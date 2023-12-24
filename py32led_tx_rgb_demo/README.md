@@ -6,6 +6,8 @@ A very simple demo of TX side.
 Note that the demo protocol implemented now only contains a 5-bit address and 5-bit for each color.  
 It's better to use a customized protocol to carry more informations.  
 
+There are 31 addresses can be used in a 5-bit addressing protocol, and the 'ALL-1' one (i.e. 5'b11111) is used as a broadcast address.
+
 ---
 ```
 tx_frame(address, r, g, b);
