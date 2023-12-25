@@ -12,4 +12,5 @@ OSHWHub project: [TX](https://oshwhub.com/libc0607/py32led_tx_xkt001_v1p0_eco1_r
 
 # License 
 Hardware: CERN-OHL-S v2 or any later versions  
-(As for software.. Is there really anyone who will use my sh*t codes?)
+Codes written by me: GPL 3.0 (... Is there really anyone who will use my sh*t codes?)  
+READMEs, theory, explains, ..., written by me: CC BY-SA 4.0  
